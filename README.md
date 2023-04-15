@@ -27,4 +27,4 @@ The measurement outcomes (counts) are visualized using the plot_histogram functi
 The code is a complete example of how to create and simulate a quantum circuit with a custom gate in Qiskit.
 
 
-https://github.com/graylan0/ibm-quantum-gate-programs/blob/main/unitary.demo.PNG
+![image](https://user-images.githubusercontent.com/34530588/232253933-9cdc1f01-73e6-4a90-b6a6-837597d9b9e9.png)
