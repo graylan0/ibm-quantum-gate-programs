@@ -1,4 +1,4 @@
-# ibm-quantum-gate-programs
+# ibm-quantum-gate-programs Colobit Emotional Research, use with caution
 IBM Quantum Programs (Running)
  A working gate ran on ibm quantum
  
